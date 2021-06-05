@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "WFBotQQGroupManager": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "environmentVariables": {
+        "MIRAI_QQ": "BOT_QQ",
+        "MIRAI_PORT": "MIRAI_API_HTTP_PORT",
+        "MIRAI_HOST": "MIRAI_API_HTTP_HOST",
+        "MIRAI_AUTHKEY": "MIRAI_API_HTTP_AUTHKEY"
+      }
+    }
+  }
+}
